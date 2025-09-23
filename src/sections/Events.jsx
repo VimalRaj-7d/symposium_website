@@ -33,7 +33,7 @@ const eventsData = {
       time: "Round 1:11:00 AM – 12:30 PM & Round 2: 2:00 PM - 3.00PM",
       venue: "ECE LAB 2108",
       members: "1 members(Single Participation Only)",
-      contacts: "Vetrivel : 7200564266, Vishali:7358453631",
+      contacts: "Vetrivel : 7200564266, Muthu :8667845854",
       rules: ["Single Participation only Allowed", "Don't Speak to others", "Don't Use AI Tools for Designing Ideas", "Each person will be given 1 hours "],
       prizes: ["Winner:Sheild & Certificates"],
       staffincharge: "Mrs.P.Rajapriya",
