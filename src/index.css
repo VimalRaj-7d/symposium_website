@@ -1,3 +1,4 @@
+
 @import "tailwindcss";
 
 html,body {
@@ -276,6 +277,7 @@ h1, h2, h3, .heading {
   opacity: 1;
   animation: point calc(var(--time)) ease 1 -350ms;
 }
+
 
 @keyframes particle {
   0% {

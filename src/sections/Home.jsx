@@ -1,3 +1,4 @@
+
 import { useEffect, useState } from "react";
 import Particles from "../components/Particles";
 import TextType from "../components/TextType";
