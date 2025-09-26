@@ -49,7 +49,6 @@ const eventsData = {
       prizes: ["Winner:Sheild & Certificates"],
       staffincharge: "Mrs.P.Rajapriya",
     },
-
     {
       title: "Startup Arena",
       type: "Presentation",
@@ -71,6 +70,7 @@ const eventsData = {
       prizes: ["Winner:Sheild & Certificates"],
       staffincharge: "Mrs.P.Rajapriya",
     },
+
     {
       title: "Algo Arena",
       type: "Coding Challenge",
@@ -93,6 +93,7 @@ const eventsData = {
       prizes: ["Winner:Sheild & Certificates"],
       staffincharge: "Mrs.E.Selvamanju",
     },
+
     {
       title: "Prompt Royale",
       type: "Generating Image & Video",
@@ -115,6 +116,7 @@ const eventsData = {
       prizes: ["Winner:Sheild & Certificates"],
       staffincharge: "Mr.S.Vishwanathan",
     },
+
   ],
   nonTechnical: [
     {
@@ -139,6 +141,7 @@ const eventsData = {
       prizes: ["Winner:Sheild & Certificates"],
       staffincharge: "Mr.R.Srinivasan",
     },
+
     {
       title: "IPL Auction",
       type: "Auction",
@@ -159,6 +162,7 @@ const eventsData = {
       prizes: ["Winner:Sheild & Certificates"],
       staffincharge: ["Mr.ParameshWaran"],
     },
+
     {
       title: "Pressure Pause",
       type: "Mathi Yosi",
@@ -181,6 +185,7 @@ const eventsData = {
       prizes: ["Winner:Sheild & Certificates"],
       staffincharge: "Mrs.Sowmiya",
     },
+
     {
       title: "E-Sports",
       type: "FreeFire",
@@ -228,6 +233,7 @@ const eventsData = {
         feePerHead: 250,
         registrationLink: "https://forms.gle/9R6yMWzQW1PGmCca9",
       },
+
       problemStatement: "/Problem_statements.pdf"
     },
   ],
