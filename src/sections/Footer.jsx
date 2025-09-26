@@ -73,7 +73,7 @@ function Footer() {
       {/* Bottom Line */}
       <div className="text-center text-sm text-gray-400 mt-10 border-t border-gray-700 pt-6">
         © 2025 Tech Fusion. All rights reserved. <br />
-        <span className="text-yellow-200">Designed & Developed by VimalRaj.R & Rakesh.S</span>
+        <span className="text-yellow-200">Designed & Developed by VimalRaj.R & Rakesh.npm installS</span>
       </div>
     </footer>
   );
