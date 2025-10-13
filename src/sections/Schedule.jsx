@@ -58,7 +58,7 @@ function Schedule() {
         {
           time: "11:00 AM - 12:30 PM",
           title: "Prompt Royale",
-          location: "CSE LAB:(Hall No:2007)",
+          location: "CSE LAB:(Hall No:2109)",
         },
         {
           time: "12:30 PM - 1:30 PM",

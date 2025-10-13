@@ -14,7 +14,7 @@ const eventsData = {
       hosts: "VimalRaj R , Rakesh S",
       image:
         back_track,
-      date: "OCT 16, 2025",
+      date: "OCT 17, 2025",
       time: "11:00 AM – 12:30 PM",
       venue: "CSE LAB 2007",
       members: "1 member(Single Participation Only)",
@@ -35,7 +35,7 @@ const eventsData = {
         " UI/UX Innovation – Showcasing creative design ideas and user-centered digital experiences.",
       hosts: "Vetrivel S , Vishali S",
       image: "https://wallpapercave.com/wp/wp11742795.jpg",
-      date: "OCT 16, 2025",
+      date: "OCT 17, 2025",
       time: "Round 1:11:00 AM – 12:30 PM & Round 2: 2:00 PM - 3.00PM",
       venue: "ECE LAB 2108",
       members: "1 members(Single Participation Only)",
@@ -57,7 +57,7 @@ const eventsData = {
       hosts: "Sanjay G , Sutakar SJ",
       image:
         "https://asperbrothers.com/wp-content/uploads/2023/11/featuredimage_eventsforstartups-e1701268834337-853x470.jpg",
-      date: "OCT 16, 2025",
+      date: "OCT 17, 2025",
       time: "11:00 AM – 12:30 PM",
       venue: "Seminar Hall 2003",
       members: " Team of 3 Members Maximum",
@@ -79,7 +79,7 @@ const eventsData = {
       hosts: "Rithik K , Rohith B",
       image:
         "https://tse3.mm.bing.net/th/id/OIP.hjWAshhSxJR4H0m7Xn1r2gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
-      date: "OCT 16, 2025",
+      date: "OCT 17, 2025",
       time: "11:00 AM – 12:30 PM",
       venue: "CSE LAB 2008",
       members: " 1 member(Single Participation Only)",
@@ -102,9 +102,9 @@ const eventsData = {
       hosts: "Mahindra Roshan M , Sri Gnana Guru J",
       image:
         "https://miro.medium.com/v2/resize:fit:602/1*e_OqVthufzhYG4WM5V2S2Q.png",
-      date: "OCT 16, 2025",
+      date: "OCT 17, 2025",
       time: "11:00 AM – 12:30 PM",
-      venue: "Hall No: 2001",
+      venue: "ECE LAB: 2109",
       members: "Team of 2 Members",
       contacts: "Mahindra Roshan : 9489246199, Sri Gnana Guru : 7639035985",
       rules: [
@@ -127,7 +127,7 @@ const eventsData = {
       hosts: "Pruthiv Raman K , Konnaiyandi K",
       image:
         "https://as1.ftcdn.net/v2/jpg/02/04/52/72/1000_F_204527293_o9ut8AIm2PaXQg22sSqLMH354X8weheJ.jpg",
-      date: "OCT 16, 2025",
+      date: "OCT 17, 2025",
       time: "Round 1 : 12:30 PM – 1:30 PM & Round 2 : 2:15 PM – 3:00 PM ",
       venue: "3rd Year CSE (Hall No:2002)",
       members: "Team of 2 Members",
@@ -150,7 +150,7 @@ const eventsData = {
       hosts: "DharaniDharan M , ArunKummar P",
       image:
         "https://th.bing.com/th/id/OIP.Xcnr58MzsBrM3K7Lz46FywHaEK?w=289&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
-      date: "OCT 16, 2025",
+      date: "OCT 17, 2025",
       time: " 12:30 PM – 1:30 PM ",
       venue: "3rd Year CSE (Hall No:2001)",
       members: "Team of 4 Members",
@@ -171,7 +171,7 @@ const eventsData = {
       hosts: "Thrisha S , Kareemathul Zahraa M",
       image:
         "https://static.vecteezy.com/system/resources/previews/001/991/249/large_2x/play-circular-button-neon-icon-elements-of-minimal-universal-theme-set-simple-icon-for-websites-web-design-mobile-app-info-graphics-vector.jpg",
-      date: "OCT 16, 2025",
+      date: "OCT 17, 2025",
       time: " 12:30 PM – 1:30 PM ",
       venue: "2nd Year CSE A(Hall No:2011)",
       members: "1 members(Single Participation Only)",
@@ -194,7 +194,7 @@ const eventsData = {
       hosts: "Madhan Kumar N , John J",
       image:
         "https://www.clarknexsen.com/wp-content/uploads/2021/05/unc-esports-arena-1200-web.jpg",
-      date: "OCT 16, 2025",
+      date: "OCT 17, 2025",
       time: " 2:30 PM – 4:00 PM ",
       venue: "ECE LAB:(2109)",
       members: "Team of 4 Members",
@@ -216,7 +216,7 @@ const eventsData = {
       description:
         "Neurahack 2K25 is a national level technical hackathon where participants compete individually or in teams to build innovative solutions within a set time frame. Showcase your skills and win exciting prizes!",
       image: hackathonImage,
-      date: "OCT 16, 2025",
+      date: "OCT 17, 2025",
       time: "Full day",
       venue: "Kamarajar Auditorium",
       members: "Individual / Team of 2-3 Members",

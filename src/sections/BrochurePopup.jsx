@@ -6,7 +6,7 @@ const BrochurePopup = () => {
 
   useEffect(() => {
     setShow(true);
-    const timer = setTimeout(() => setShow(false), 7000);
+    const timer = setTimeout(() => setShow(false), 10000);
     return () => clearTimeout(timer);
   }, []);
 
